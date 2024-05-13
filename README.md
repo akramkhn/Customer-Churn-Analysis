@@ -44,9 +44,9 @@ Benefits
   
 Conclusion
 
-![Screenshot 2024-05-13 172829](https://github.com/akramkhn/Customer-Churn-Analysis/assets/100274605/112053a5-90a3-4e0e-a3c4-5196beebc4da)
-
   Through this project, we demonstrate the effectiveness of Power BI in conducting Customer Churn Analysis within the banking industry. The insights gained contribute to enhancing customer satisfaction and optimizing business performance.
   
-FINAL DASHBOARD
+FINAL DASHBOARD / REPORT
+
+![Screenshot 2024-05-13 172829](https://github.com/akramkhn/Customer-Churn-Analysis/assets/100274605/112053a5-90a3-4e0e-a3c4-5196beebc4da)
 
