@@ -48,5 +48,6 @@ Conclusion
   
 FINAL DASHBOARD / REPORT
 
-![Screenshot 2024-05-13 172829](https://github.com/akramkhn/Customer-Churn-Analysis/assets/100274605/112053a5-90a3-4e0e-a3c4-5196beebc4da)
+![Screenshot 2024-05-13 173709](https://github.com/akramkhn/Customer-Churn-Analysis/assets/100274605/12aa8077-d436-41ca-bb60-b904a3af6e84)
+
 
