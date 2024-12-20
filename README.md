@@ -10,7 +10,7 @@ We use a Bank Customer Churn dataset containing various attributes such as custo
 
 Process:
 
-  Data Connection : 
+  Data Connection :
   
   We begin by connecting the Bank Customer Churn dataset to Power BI to access the required data.
 
